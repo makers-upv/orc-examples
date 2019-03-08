@@ -13,12 +13,12 @@
 
 
 //Motor A (Left)
-#define PIN_IN1 
-#define PIN_IN2
+#define PIN_IN1 3
+#define PIN_IN2 5
 
 // Motor B (Right)
-#define PIN_IN3
-#define PIN_IN4
+#define PIN_IN3 6
+#define PIN_IN4 9
 
 char recibido;
 
